@@ -40,8 +40,6 @@ You may assume these datasets are representative of:
 *	Permits: a proxy for project activity level / type / complexity (“exposure”)
 *	Complaints: an early signal of potential issues requiring attention (311 + DOB-entered complaints)
 
-Note: For simplicity sake, we have reduced the size of the data so incident rate is ~10% on the historical set. Please find the abridged versions here.
- 
 # Objective
 Design a weekly batch triage model that helps Suffolk answer:
 “Which projects / sites should we focus on this week to reduce the likelihood of construction-related incidents?”
